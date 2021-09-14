@@ -1,0 +1,12 @@
+/home/juan/Documentos/Carpetas/misionticCiclo3/tabajosC3/taller2/HospiEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HospiEnCasa.App.Persistencia.csprojAssemblyReference.cache
+/home/juan/Documentos/Carpetas/misionticCiclo3/tabajosC3/taller2/HospiEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HospiEnCasa.App.Persistencia.AssemblyInfoInputs.cache
+/home/juan/Documentos/Carpetas/misionticCiclo3/tabajosC3/taller2/HospiEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HospiEnCasa.App.Persistencia.AssemblyInfo.cs
+/home/juan/Documentos/Carpetas/misionticCiclo3/tabajosC3/taller2/HospiEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HospiEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
+/home/juan/Documentos/Carpetas/misionticCiclo3/tabajosC3/taller2/HospiEnCasa.App.Persistencia/bin/Debug/netstandard2.1/HospiEnCasa.App.Persistencia.deps.json
+/home/juan/Documentos/Carpetas/misionticCiclo3/tabajosC3/taller2/HospiEnCasa.App.Persistencia/bin/Debug/netstandard2.1/HospiEnCasa.App.Persistencia.dll
+/home/juan/Documentos/Carpetas/misionticCiclo3/tabajosC3/taller2/HospiEnCasa.App.Persistencia/bin/Debug/netstandard2.1/HospiEnCasa.App.Persistencia.pdb
+/home/juan/Documentos/Carpetas/misionticCiclo3/tabajosC3/taller2/HospiEnCasa.App.Persistencia/bin/Debug/netstandard2.1/HospiEnCasa.App.Dominio.dll
+/home/juan/Documentos/Carpetas/misionticCiclo3/tabajosC3/taller2/HospiEnCasa.App.Persistencia/bin/Debug/netstandard2.1/HospiEnCasa.App.Dominio.pdb
+/home/juan/Documentos/Carpetas/misionticCiclo3/tabajosC3/taller2/HospiEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HospiEnCasa.App.Persistencia.csproj.CopyComplete
+/home/juan/Documentos/Carpetas/misionticCiclo3/tabajosC3/taller2/HospiEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HospiEnCasa.App.Persistencia.dll
+/home/juan/Documentos/Carpetas/misionticCiclo3/tabajosC3/taller2/HospiEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HospiEnCasa.App.Persistencia.pdb
